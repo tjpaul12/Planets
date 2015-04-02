@@ -4,4 +4,8 @@ The Mummy will appreciate the lack of humidity.
 But we will have to manufacture our own oxygen.
 This line breaks things.
 Add this line after adding .dat and .out files.
+<<<<<<< HEAD
 Hello TJ this works
+=======
+Hello TJ Hope this
+>>>>>>> 9bf452d5667bb02be4b9522b565b341e249d9cce
